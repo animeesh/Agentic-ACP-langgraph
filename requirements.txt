@@ -1,0 +1,7 @@
+Colorama
+nest-asyncio 
+langgraph 
+python-dotenv 
+langchain-openai
+langchain-core 
+langchain-community
